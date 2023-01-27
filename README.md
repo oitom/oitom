@@ -1,6 +1,6 @@
-### Olá, eu sou o Wellington! 👋
+### Hi, I'm Wellington! 👋
 
-Senior Web Developer | Ruby | JS | TS | PHP
+Senior Developer PHP | JS | TS | Ruby |
 
 <div align="left">
   <a href="https://github.com/wcostale">
