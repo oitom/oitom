@@ -1,6 +1,6 @@
 ### Hi, I'm Wellington! 👋
 
-Senior Developer PHP | JS | TS | Node | NestJS | Ruby |
+Senior Developer PHP | JS |  Ruby | TS | Node | NestJS |
 
 
 🔭 I’m currently working on RV Digital
