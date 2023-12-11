@@ -2,8 +2,6 @@
 
 Senior Developer PHP | JS |  Ruby | TS | Node | NestJS | Vue.js
 
-
-🔭 I’m currently working on RV Digital
 <!-- <div align="left">
   <a href="https://github.com/wcostale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcostale&layout=compact&langs_count=7&theme=dark"/>
